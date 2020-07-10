@@ -17,7 +17,7 @@ fn main() {
             let ir: i32 = color_elem_to_int(r);
             let ig: i32 = color_elem_to_int(g);
             let ib: i32 = color_elem_to_int(b);
-            writer.write_all(format!("{} {} {}", ir, ig, ib).as_bytes()).unwrap();
+            writer.write_all(format!("{} {} {}\n", ir, ig, ib).as_bytes()).unwrap();
         }
         j -= 1;
     }
