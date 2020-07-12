@@ -1,6 +1,6 @@
-rustでレイトレーシングを実装
+rustでレイトレーシングを写経
 
-- 参考レポジトリ
-    https://github.com/nwtgck/ray-tracing-iow-rust
+- 写経レポジトリ
+    - https://github.com/nwtgck/ray-tracing-iow-rust
 - 週末レイトレーシング
-    https://inzkyk.xyz/ray_tracing_in_one_weekend/week_1/
+    - https://inzkyk.xyz/ray_tracing_in_one_weekend/week_1/
